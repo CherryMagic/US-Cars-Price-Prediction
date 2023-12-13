@@ -7,6 +7,7 @@ The goal of the project is to create a model that predicts the prices of US cars
 The dataset is stored as a CSV file named cars.csv, and it comprises information about 51,793 cars.
 
 ### Overview
+
 ![brand_distribution](https://github.com/CherryMagic/Cars-price-prediction/assets/120610986/62985769-959a-4557-94fa-9cfdfb04f8da)
 
 The features of the dataset are:
