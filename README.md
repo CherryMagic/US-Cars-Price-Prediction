@@ -49,7 +49,7 @@ MAPE scores of the best model:
 
 Comparison between the true and predicted prices for a random instance of each brand:
 
-![true_predicted_prices_2](https://github.com/CherryMagic/Cars-price-prediction/assets/120610986/37241319-0c7f-48d0-8bc2-305a0424c33a)
+![true_pred](https://github.com/CherryMagic/US-Cars-Price-Prediction/assets/120610986/e1cc1470-cbe4-4100-a45a-4a849b4757f3)
 
 ## Setup 
 
