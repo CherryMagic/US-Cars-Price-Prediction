@@ -8,7 +8,9 @@ The dataset is stored as a CSV file named cars.csv, and it comprises information
 
 ### Overview
 
+
 ![brand_distribution](https://github.com/CherryMagic/Cars-price-prediction/assets/120610986/62985769-959a-4557-94fa-9cfdfb04f8da)
+
 
 The features of the dataset are:
 1. Brand
@@ -36,21 +38,29 @@ The best models underwent advanced tuning. The tuning of LGB models included lea
 
 The scores of the four best models for each type:
 
+
 ![scores](https://github.com/CherryMagic/Cars-price-prediction/assets/120610986/118d78d1-5978-4618-8fba-a3a242eca0dc)
+
 
 These are the parameters of the best model found:
 
+
 ![model_parameters](https://github.com/CherryMagic/Cars-price-prediction/assets/120610986/e2553d74-4426-4162-9abd-ee3cc0f57f3d)
+
 
 ## Results
 
 MAPE scores of the best model:
 
+
 ![train_test](https://github.com/CherryMagic/Cars-price-prediction/assets/120610986/d26eb7ee-36a8-4e33-bbea-ad3e8f8fb4e9)
+
 
 Comparison between the true and predicted prices for a random instance of each brand:
 
+
 ![true_pred](https://github.com/CherryMagic/US-Cars-Price-Prediction/assets/120610986/e1cc1470-cbe4-4100-a45a-4a849b4757f3)
+
 
 ## Setup 
 
