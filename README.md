@@ -36,28 +36,23 @@ The best models underwent advanced tuning. The tuning of LGB models included lea
 
 The scores of the four best models for each type:
 
-
-![scores](https://github.com/CherryMagic/Cars-price-prediction/assets/120610986/118d78d1-5978-4618-8fba-a3a242eca0dc)
-
+![scores](https://github.com/CherryMagic/US-Cars-Price-Prediction/assets/120610986/23284e35-4d57-4d56-a657-b0eb1f355803)
 
 These are the parameters of the best model found:
 
-
-![model_parameters](https://github.com/CherryMagic/Cars-price-prediction/assets/120610986/e2553d74-4426-4162-9abd-ee3cc0f57f3d)
+![model_parameters](https://github.com/CherryMagic/US-Cars-Price-Prediction/assets/120610986/d149fc8a-2a8f-4275-a2fc-f43b44884af9)
 
 
 ## Results
 
 MAPE scores of the best model:
 
-
-![train_test](https://github.com/CherryMagic/Cars-price-prediction/assets/120610986/d26eb7ee-36a8-4e33-bbea-ad3e8f8fb4e9)
+![train_test](https://github.com/CherryMagic/US-Cars-Price-Prediction/assets/120610986/aef36265-d043-4e2e-b5b6-668fd4513ed4)
 
 
 Comparison between the true and predicted prices for a random instance of each brand:
 
-
-![true_pred](https://github.com/CherryMagic/US-Cars-Price-Prediction/assets/120610986/e1cc1470-cbe4-4100-a45a-4a849b4757f3)
+![true_pred](https://github.com/CherryMagic/US-Cars-Price-Prediction/assets/120610986/21c0d31e-99dc-41ae-9332-ed4628f20134)
 
 
 ## Setup 
